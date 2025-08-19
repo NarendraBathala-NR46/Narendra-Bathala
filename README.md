@@ -47,4 +47,4 @@ A startup focused on:
 ---
 
 ## 📫 Connect with Me  
-[Website](https://navigationreflects.com) • [LinkedIn](https://linkedin.com) • [YouTube](https://youtube.com/@navigationreflects) • [Instagram](https://instagram.com/navigationreflects) • [Twitter](https://twitter.com/NavigationRef)  
+[Website](https://navigationreflects.odoo.com) • [LinkedIn](https://linkedin.com) • [YouTube](https://youtube.com/@navigationreflects) • [Instagram](https://instagram.com/navigationreflects) • [Twitter](https://twitter.com/NavigateReflect)  
